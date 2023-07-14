@@ -46,3 +46,13 @@ WHERE ano = 2023 AND mes = 7 AND entidad = 'Entidad1'
 
 ---
 
+Azure Data Studio por defecto sólo muestra las primeras 5000 filas de un resultado de consulta. Si deseas aumentar este límite, puedes seguir los siguientes pasos:
+
+Haz clic en "File" en la barra de menú superior.
+Luego, elige "Preferences".
+Selecciona "Settings".
+En el cuadro de búsqueda que aparece, escribe "SQL Editor: Max Rows".
+Modifica la configuración "SQL Editor: Max Rows" a la cantidad que prefieras. Por ejemplo, si deseas que se muestren hasta 100000 filas, puedes cambiar este valor a 100000.
+Presiona "Enter" y cierra la ventana de configuración.
+
+ ---
