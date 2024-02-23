@@ -6,3 +6,7 @@
   file: /CDD
 - title: MYSQLtest
   file: /MYSQLtest
+- title: views
+  file: /views
+- title: matplotlib
+  file: /matplotlib
